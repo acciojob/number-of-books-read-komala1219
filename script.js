@@ -17,6 +17,9 @@ const library = [
 ];
 
 const numberOfBooksRead = () => {
+	for (let index = 0; index <library.le; index++) {
+		
+	}
   // write your code here
 };
 
